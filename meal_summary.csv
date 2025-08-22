@@ -1,0 +1,9 @@
+date,meal_type,calories,protein_g,fiber_g,carbs_g,net_carbs_g,fat_g,meets_high_protein,meets_high_fiber,meets_low_net_carbs,score_met,all_three_met
+2025-08-20,Breakfast,270.5,22.45,14.0,25.5,11.5,9.4,False,True,True,2,False
+2025-08-20,Dinner,289.5,29.5,4.2,11.0,6.8,14.3,True,False,True,2,False
+2025-08-20,Lunch,278.0,38.25,4.9,9.0,4.1,9.8,True,False,True,2,False
+2025-08-20,Snack,140.0,19.0,1.0,5.0,4.0,4.5,False,False,True,1,False
+2025-08-21,Breakfast,200.0,12.75,2.5,5.0,2.5,15.5,False,False,True,1,False
+2025-08-21,Dinner,221.0,31.5,15.4,27.0,11.6,4.3,True,True,True,3,True
+2025-08-21,Lunch,205.0,22.6,8.3,17.0,8.7,8.15,False,True,True,2,False
+2025-08-21,Snack,120.0,24.0,1.0,3.0,2.0,2.0,False,False,True,1,False

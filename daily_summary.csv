@@ -1,0 +1,3 @@
+date,calories,protein_g,fiber_g,carbs_g,net_carbs_g,fat_g,meets_protein_goal,meets_fiber_goal,meets_netcarb_goal,goals_met_count
+2025-08-20,978.0,109.2,24.1,50.5,26.4,38.0,True,False,True,2
+2025-08-21,746.0,90.85,27.2,52.0,24.8,29.95,False,True,True,2
